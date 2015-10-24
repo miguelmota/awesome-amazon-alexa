@@ -1,6 +1,6 @@
 # Alexa Skills Kit Resources
 
-This is a collection of resources and projects for the (Alexa Skills Kit (ASK))[https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit], mostly JavaScript/Node.js specific.
+This is a collection of resources and projects for the [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), mostly JavaScript/Node.js specific.
 
 # NPM Modules
 
