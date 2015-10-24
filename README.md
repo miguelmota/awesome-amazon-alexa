@@ -1,4 +1,4 @@
-# Alexa Skills Kit Resources
+# Amazon Echo Resources
 
 This is a collection of resources and projects for the [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), mostly JavaScript/Node.js specific.
 
