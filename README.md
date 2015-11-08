@@ -1,6 +1,6 @@
-# Amazon Echo Resources
+# Awesome Amazon Echo
 
-This is a collection of resources and projects for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) and [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), mostly JavaScript/Node.js specific.
+Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) and [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), mostly JavaScript/Node.js specific.
 
 # NPM Modules
 
