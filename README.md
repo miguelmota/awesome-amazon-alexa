@@ -13,7 +13,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
 - [alexa-plex](https://github.com/OverloadUT/alexa-plex) - "Alexa (Amazon Echo) app for interacting with a Plex Server and controlling client playback."
 - [alexarank](https://github.com/fcambus/alexarank) - "A simple node package to get Alexa traffic rank for a domain or URL."
-- [trash-talk](https://github.com/JoshMilo/trash-talk) - "100 greatest movie insults of all time to motivate you".
+- [trash-talk](https://github.com/JoshMilo/trash-talk) - "100 greatest movie insults of all time to motivate you."
 - [AlexaMakeMeASandwich](https://github.com/timkarnold/AlexaMakeMeASandwich) - "Chrome Extension that turns your Amazon Echo into a Sandwich Artisan."
 - [LIFX-Alexa-Skill](https://github.com/Seechay/LIFX-Alexa-Skill) - "An Alexa Skill created for the Amazon Echo that allows you to control your LIFX Lightbulbs."
 - [EarthquakeInfoSkill](https://github.com/ljdelight/EarthquakeInfoSkill) - "Amazon Echo (Alexa) skill to read out recent earthquakes in the world."
