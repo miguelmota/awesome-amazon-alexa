@@ -11,6 +11,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 - [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
 - [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
+- [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
 - [alexa-plex](https://github.com/OverloadUT/alexa-plex) - "Alexa (Amazon Echo) app for interacting with a Plex Server and controlling client playback."
 - [alexarank](https://github.com/fcambus/alexarank) - "A simple node package to get Alexa traffic rank for a domain or URL."
 - [trash-talk](https://github.com/JoshMilo/trash-talk) - "100 greatest movie insults of all time to motivate you."
@@ -20,6 +21,8 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexaHomeboy](https://github.com/sirtimbly/alexaHomeboy) - "Alexa Lambda Function for communicating with IFTTT maker channel."
 - [RokuAlexaLambdaSkill](https://github.com/julianh2o/RokuAlexaLambdaSkill) - "An Alexa Skill that allows voice control of your Roku."
 - [alexa-sonos](https://github.com/mattwelch/alexa-sonos) - "An Alexa app to control a Sonos."
+- [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
+- [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
 
 # Newsletters
 
@@ -28,6 +31,10 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 # Blogs
 
 - [Love My Echo](http://lovemyecho.com/) - "Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.""
+
+# Videos
+
+- [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
 
 # Contribute
 
