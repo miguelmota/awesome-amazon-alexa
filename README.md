@@ -36,6 +36,10 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 - [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
 
+# Easter Eggs
+
+- [Alexa Easter Eggs](EASTER_EGGS.md)
+
 # Contribute
 
 Fork and submit Pull Request!

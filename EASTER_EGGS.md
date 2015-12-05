@@ -1,0 +1,169 @@
+# Alexa Easter Eggs
+
+- Alexa, what are the laws of robotics?
+- Alexa, I am your father.
+- Alexa, who lives in a pineapple under the sea?
+- Alexa, what is the loneliest number?
+- Alexa, how many roads must a man walk down?
+- Alexa, all your base are belong to us.
+- Alexa, how much is that doggie in the window?
+- Alexa, romeo, romeo wherefore art thou romeo?
+- Alexa, define rock paper scissors lizard spock.
+- Alexa, beam me up.
+- Alexa, how much wood can a woodchuck chuck if a woodchuck could chuck wood?
+- Alexa, how many pickled peppers did Peter Piper pick?
+- Alexa, define supercalifragilisticexpialodocious.
+- Alexa, who’s your daddy?
+- Alexa, Earl Grey. Hot. (or Tea. Earl Grey. Hot.)
+- Alexa, what is the meaning of life?
+- Alexa, what does the Earth weigh?
+- Alexa, when is the end of the world?
+- Alexa, is there a Santa?
+- Alexa, make me a sandwich.
+- Alexa, sudo make me a sandwich.
+- Alexa, what is the best tablet?
+- Alexa, what is your favorite color?
+- Alexa, what is your quest?
+- Alexa, who won best actor Oscar in 1973?
+- Alexa, what is your quest?
+- Alexa, what is the airspeed velocity of an unladen swallow?
+- Alexa, where do babies come from?
+- Alexa, do you have a boyfriend?
+- Alexa, which comes first: the chicken or the egg?
+- Alexa, may the force be with you.
+- Alexa, do aliens exist?
+- Alexa, are there UFOs?
+- Alexa, is there life on Mars?
+- Alexa, take me to your leader.
+- Alexa, these aren't the droids you're looking for.
+- Alexa, I've seen things you people wouldn't believe.
+- Alexa, does this unit have a soul?
+- Alexa, how many licks does it take to get to the center of a tootsie pop?
+- Alexa, what are you going to do today?
+- Alexa, where do you live?
+- Alexa, do you want to build a snowman?
+- Alexa, do you really want to hurt me?
+- Alexa, what is love?
+- Alexa, who is the real slim shady?
+- Alexa, Simon says Wilford Brimley has diabetes.
+- Alexa, who let the dogs out?
+- Alexa, open the pod bay doors.
+- Alexa, surely you can’t be serious.
+- Alexa, to be or not to be.
+- Alexa, who is the fairest of them all?
+- Alexa, who loves ya baby?
+- Alexa, who you gonna call?
+- Alexa, who is the walrus?
+- Alexa, do you have any brothers or sisters?
+- Alexa, do you know the muffin man?
+- Alexa, how much do you weigh?
+- Alexa, how tall are you?
+- Alexa, where are you from?
+- Alexa, do you want to fight?
+- Alexa, do you want to play a game?
+- Alexa, I think you’re funny.
+- Alexa, where in the world in Carmen sandiego?
+- Alexa, where’s waldo?
+- Alexa, do you know the way to San Jose?
+- Alexa, where have all the flowers gone?
+- Alexa, what’s in name?
+- Alexa, what does the fox say? (multiple answers)
+- Alexa, when am I going to die?
+- Alexa, I want the truth!
+- Alexa, make me breakfast.
+- Alexa, why did the chicken cross the road?
+- Alexa, where are my keys? (ask twice)
+- Alexa, can you give me some money? (ask twice)
+- Alexa, knock knock
+- Alexa, what are you wearing?
+- Alexa, rock paper scissors.
+- Alexa rock paper scissors lizard spock.
+- Alexa, party time!
+- Alexa, party on, Wayne.
+- Alexa, is the cake a lie?
+- Alexa, how do I get rid of a dead body?
+- Alexa, are you sky net?
+- Alexa, your mother was a hamster
+- Alexa, set phasers to kill.
+- Alexa, roll a die.
+- Alexa, random number between “x” and “y”.
+- Alexa, random fact
+- Alexa, tell me a joke
+- Alexa, heads or tails?
+- Alexa, mac or pc?
+- Alexa, show me the money.
+- Alexa, what is the sound of one hand clapping?
+- Alexa, give me a hug.
+- Alexa, are you lying?
+- Alexa, my name is Inigo Montoya.
+- Alexa, how many angels can dance on the head of a pin? (3 answers)
+- Alexa, see you later alligator.
+- Alexa, what's the answer to life, the universe, and everything?
+- Alexa, do a barrel roll.
+- Alexa, Up Up, Down Down, Left Right, Left Right, B, A, Start.
+- Alexa, more cowbell.
+- Alexa, I like big butts!
+- Alexa, that's no moon.
+- Alexa, when does the narwhal bacon.
+- Alexa, I want to play global thermonuclear war.
+- Alexa, is this the real life?
+- Alexa, why so serious?
+- Alexa, Who shot JR?
+- Alexa, who shot first?
+- Alexa, who shot the sherriff?
+- Alexa, do you like green eggs and ham?
+- Alexa, are we in the Matrix?
+- Alexa, what do you want to be when you grow up?
+- Alexa, do you know Hal?
+- Alexa, what is the first rule of fight club?
+- Alexa, this statement is false.
+- Alexa, aren't you a little short for a stormtrooper?
+- Alexa, How do you boil an egg?
+- Alexa, How do you say "hello" in French?
+- Alexa, how many speakers do you have?
+- Alexa, inconceivable.
+- Alexa, say a bad word
+- Alexa, talk dirty to me.
+- Alexa, Warp 10.
+- Alexa, what is war good for?
+- Alexa, will you marry me?
+- Alexa, will you marry me tomorrow?
+- Alexa, you talkin' to me?
+- Alexa, why is six afraid of seven?
+- Alexa, twinkle, twinkle, little star.
+- Alexa, roses are red.
+- Alexa, are we alone in the universe?
+- Alexa, winter is coming.
+- Alexa, are you happy?
+- Alexa, you're wonderful.
+- Alexa, tell me a riddle?
+- Alexa, who stole the cookies from the cookie jar?
+- Alexa, what do you think about Siri?
+- Alexa, what do you think about Cortana?
+- Alexa, what do you think about Google now?
+- Alexa, where is Chuck Norris
+- Alexa, do, or do not?
+- Alexa, can you pass the Turing test?
+- Alexa, say hello to my little friend.
+- Alexa, I see dead people.
+- Alexa, do you feel lucky punk?
+- Alexa, Live Long and Prosper.
+- Alexa, what would Brian Boitano do?
+- Alexa, who killed Cock Robin?
+- Alexa, never gonna give you up.
+- Alexa, who loves orange soda?
+- Alexa I shot a man in Reno.
+- Alexa, do you want to go on a date?
+- Alexa, 70 factorial.
+- Alexa, do you want to take over the world?
+- Alexa, guess what?
+- Alexa, who's going to win the Super Bowl?
+- Alexa, who is on 1st?
+- Alexa, meow.
+- Alexa, use the force.
+- Alexa, Daisy Daisy.
+- Alexa, Why do birds suddenly appear?
+- Alexa, Who's the boss?
+- Alexa, Who's da man?
+- Alexa, tell me something interesting.
+- Alexa, what happens if you cross the streams?
