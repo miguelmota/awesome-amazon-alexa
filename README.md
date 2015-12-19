@@ -9,8 +9,14 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 # Projects
 
+- [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js) - "SDK and example code for building voice-enabled skills for the Amazon Echo."
 - [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
 - [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
+- [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
+- [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
+
+# Skills
+
 - [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
 - [alexa-plex](https://github.com/OverloadUT/alexa-plex) - "Alexa (Amazon Echo) app for interacting with a Plex Server and controlling client playback."
 - [alexarank](https://github.com/fcambus/alexarank) - "A simple node package to get Alexa traffic rank for a domain or URL."
@@ -21,8 +27,13 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexaHomeboy](https://github.com/sirtimbly/alexaHomeboy) - "Alexa Lambda Function for communicating with IFTTT maker channel."
 - [RokuAlexaLambdaSkill](https://github.com/julianh2o/RokuAlexaLambdaSkill) - "An Alexa Skill that allows voice control of your Roku."
 - [alexa-sonos](https://github.com/mattwelch/alexa-sonos) - "An Alexa app to control a Sonos."
-- [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
-- [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
+- [RottingTomatoes](https://github.com/Litie-Zhu/RottingTomatoes) - "Alexa skill that tells you various info about movie.s
+- [ktd-piggy-bank](https://github.com/kickthedrawer/ktd-piggy-bank) - "An Alexa Skill to query the value of a Piggy Bank in Numerous."
+- [dominos-alexa-skill](https://github.com/kristeaac/dominos-alexa-skill) - "An Alexa Skill to track your Domino's orders."
+- [bf-helper](https://github.com/JeffEngebretsen/bf-helper) - "An Alexa Skill to help Basic Fantasy RPG players with various tasks involved in setting up characters and navigating rules."
+- [EchoMovieDialog](https://github.com/patanoia/EchoMovieDialog) - "Amazon Echo skill: Alexa engages in a dialog using movie quotes."
+- [alexa-coho](https://github.com/amzn/alexa-coho) - "Sample code for building skill adapters for Alexa Connected Home using the Lighting API."
+- [asana-alexa-skill](https://github.com/dasevilla/asana-alexa-skill) - "Alexa Skill for Asana."
 
 # Newsletters
 
@@ -35,6 +46,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 # Videos
 
 - [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
+https://developer.amazon.com/public/community/post/TxTNVX83CGS3K6/Free-Alexa-Video-Training-from-AWS-re-Invent-2015?mkt_tok=3RkMMJWWfF9wsRokuKnBZKXonjHpfsX57uktXqa%2BlMI%2F0ER3fOvrPUfGjI4CTcdqI%2BSLDwEYGJlv6SgFSrfFMapt17gOUhk%3D
 
 # Easter Eggs
 
