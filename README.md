@@ -1,17 +1,24 @@
 # Awesome Amazon Echo
 
-Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) and [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), mostly JavaScript/Node.js specific.
+Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs), mostly JavaScript/Node.js specific.
 
 # NPM Modules
 
 - [intent-utterance-file-parser](https://github.com/miguelmota/intent-utterance-file-parser) - "Parse an intent utterance file, like the Alexa Skills Kit Sample Utterance file."
 - [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - "Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances."
+- [alexa-utterances](https://github.com/mreinstein/alexa-utterances) -"Generate expanded utterances for Amazon Alexa from a template string."
+- [alexa-grammar](https://github.com/scottbea/alexa-grammar) - "Utilities and framework code for building valid grammars and skill kits for Amazon's Alexa voice agent service."
+- [hapi-alexa](https://github.com/TheEvilDev/hapi-alexa) - "Hapi plugin for building Amazon Alexa apps on NodeJS."
+- [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
+- [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
+- [generator-alexa-skill](https://github.com/cameronhunter/generator-alexa-skill) - "A Yeoman generator for scaffolding an Alexa Skill for AWS Lambda."
+- [echo-expressive](https://github.com/dhleong/expressive) - "https://github.com/dhleong/expressive."
+- [wavelength](https://github.com/pmarkert/wavelength) - "Framework for building Alexa Skills with AWS Lambda."
+- [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - "Bypass Alexa (Amazon Echo) Text-to-Speech censorship."
 
 # Projects
 
 - [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js) - "SDK and example code for building voice-enabled skills for the Amazon Echo."
-- [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
-- [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
 - [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
 - [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
 
@@ -49,8 +56,9 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 # Videos
 
+- [AWS re:Invent 2015 | (MBL301) Creating Voice Experiences Using Amazon Alexa](https://www.youtube.com/watch?v=mOcxd_KcQJI)
 - [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
-https://developer.amazon.com/public/community/post/TxTNVX83CGS3K6/Free-Alexa-Video-Training-from-AWS-re-Invent-2015?mkt_tok=3RkMMJWWfF9wsRokuKnBZKXonjHpfsX57uktXqa%2BlMI%2F0ER3fOvrPUfGjI4CTcdqI%2BSLDwEYGJlv6SgFSrfFMapt17gOUhk%3D
+
 
 # Easter Eggs
 
