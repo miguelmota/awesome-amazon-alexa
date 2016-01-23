@@ -44,7 +44,8 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [asana-alexa-skill](https://github.com/dasevilla/asana-alexa-skill) - "Alexa Skill for Asana."
 - [alexa-against-humanity](https://github.com/radiantnode/alexa-against-humanity) - "Ask Alexa to randomly pick white or black cards from Cards Against Humanity."
 - [echo-venmo](https://github.com/AbhiAgarwal/echo-venmo) - "Amazon Echo Skill for Venmo."
-- [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill)
+- [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - "An Alexa skill for calling an Uber ride."
+- [npmAlexa](https://github.com/stevengill/npmAlexaI) - "Alexa app to ping npm api."
 
 # Newsletters
 
