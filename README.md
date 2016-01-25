@@ -1,25 +1,34 @@
 # Awesome Amazon Echo
 
-Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) and [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), mostly JavaScript/Node.js specific.
+Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs), mostly JavaScript/Node.js specific.
 
 # NPM Modules
 
 - [intent-utterance-file-parser](https://github.com/miguelmota/intent-utterance-file-parser) - "Parse an intent utterance file, like the Alexa Skills Kit Sample Utterance file."
-- [intent-utterance-expand](https://github.com/miguelmota/intent-utterance-expand) - "Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances."
+- [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - "Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances."
+- [intent-utterance-generator](https://github.com/miguelmota/intent-utterance-generator) - "Alexa Skills Kit Sample Utterances generator."
+- [alexa-utterances](https://github.com/mreinstein/alexa-utterances) -"Generate expanded utterances for Amazon Alexa from a template string."
+- [alexa-grammar](https://github.com/scottbea/alexa-grammar) - "Utilities and framework code for building valid grammars and skill kits for Amazon's Alexa voice agent service."
+- [hapi-alexa](https://github.com/TheEvilDev/hapi-alexa) - "Hapi plugin for building Amazon Alexa apps on NodeJS."
+- [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
+- [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
+- [generator-alexa-skill](https://github.com/cameronhunter/generator-alexa-skill) - "A Yeoman generator for scaffolding an Alexa Skill for AWS Lambda."
+- [echo-expressive](https://github.com/dhleong/expressive) - "https://github.com/dhleong/expressive."
+- [wavelength](https://github.com/pmarkert/wavelength) - "Framework for building Alexa Skills with AWS Lambda."
+- [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - "Bypass Alexa (Amazon Echo) Text-to-Speech censorship."
 
 # Projects
 
 - [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js) - "SDK and example code for building voice-enabled skills for the Amazon Echo."
-- [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
-- [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
 - [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
 - [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
 
 # Skills
 
-- [gmail-on-alexa](https://github.com/s-maheshbabu/gmail-on-alexa) - "Gmail skill for Amazon Alexa."
 - [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
+- [ASK-HackerNews](https://github.com/miguelmota/ASK-HackerNews) - "An Alexa Skills Kit app to read the top Hacker News headlines."
 - [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
+- [gmail-on-alexa](https://github.com/s-maheshbabu/gmail-on-alexa) - "Gmail skill for Amazon Alexa."
 - [alexa-plex](https://github.com/OverloadUT/alexa-plex) - "Alexa (Amazon Echo) app for interacting with a Plex Server and controlling client playback."
 - [alexarank](https://github.com/fcambus/alexarank) - "A simple node package to get Alexa traffic rank for a domain or URL."
 - [trash-talk](https://github.com/JoshMilo/trash-talk) - "100 greatest movie insults of all time to motivate you."
@@ -36,6 +45,10 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [EchoMovieDialog](https://github.com/patanoia/EchoMovieDialog) - "Amazon Echo skill: Alexa engages in a dialog using movie quotes."
 - [alexa-coho](https://github.com/amzn/alexa-coho) - "Sample code for building skill adapters for Alexa Connected Home using the Lighting API."
 - [asana-alexa-skill](https://github.com/dasevilla/asana-alexa-skill) - "Alexa Skill for Asana."
+- [alexa-against-humanity](https://github.com/radiantnode/alexa-against-humanity) - "Ask Alexa to randomly pick white or black cards from Cards Against Humanity."
+- [echo-venmo](https://github.com/AbhiAgarwal/echo-venmo) - "Amazon Echo Skill for Venmo."
+- [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - "An Alexa skill for calling an Uber ride."
+- [npmAlexa](https://github.com/stevengill/npmAlexaI) - "Alexa app to ping npm api."
 
 # Newsletters
 
@@ -47,8 +60,12 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 # Videos
 
+- [AWS re:Invent 2015 | (MBL301) Creating Voice Experiences Using Amazon Alexa](https://www.youtube.com/watch?v=mOcxd_KcQJI)
 - [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
-https://developer.amazon.com/public/community/post/TxTNVX83CGS3K6/Free-Alexa-Video-Training-from-AWS-re-Invent-2015?mkt_tok=3RkMMJWWfF9wsRokuKnBZKXonjHpfsX57uktXqa%2BlMI%2F0ER3fOvrPUfGjI4CTcdqI%2BSLDwEYGJlv6SgFSrfFMapt17gOUhk%3D
+
+# Courses
+
+- [Introduction to Voice Design with Amazon's Alexa](https://www.udemy.com/amazonalexa/)
 
 # Easter Eggs
 
