@@ -17,6 +17,8 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 # Skills
 
+- [gmail-on-alexa](https://github.com/s-maheshbabu/gmail-on-alexa) - "Gmail skill for Amazon Alexa."
+- [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
 - [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
 - [alexa-plex](https://github.com/OverloadUT/alexa-plex) - "Alexa (Amazon Echo) app for interacting with a Plex Server and controlling client playback."
 - [alexarank](https://github.com/fcambus/alexarank) - "A simple node package to get Alexa traffic rank for a domain or URL."
