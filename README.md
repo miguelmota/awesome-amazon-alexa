@@ -49,6 +49,14 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [echo-venmo](https://github.com/AbhiAgarwal/echo-venmo) - "Amazon Echo Skill for Venmo."
 - [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - "An Alexa skill for calling an Uber ride."
 - [npmAlexa](https://github.com/stevengill/npmAlexaI) - "Alexa app to ping npm api."
+- [1minuteMindfullnessSkill](https://github.com/unitygirl/1minuteMindfullnessSkill) - "Skill code for Alexa Skill: 1 minute Mindfulness."
+- [alexa-ha](https://github.com/unityfire/alexa-ha) - "An Amazon Echo skill for controlling your HA server via voice."
+- [codeword-alexa-skill](https://github.com/asimihsan/codeword-alexa-skill) - "Generate code words using Alexa."
+- [alexa-league](https://github.com/amphy/alexa-league) - "Alexa Skill for Riot API."
+- [alexa-astro](https://github.com/peap/alexa-astro) - "Ask your Amazon Echo about the night sky."
+- [alexa_metar](https://github.com/djacobow/alexa_metar) - "Read ADDS METARs aloud on an Amazon Echo."
+- [alexa-qrz](https://github.com/maihde/alexa-qrz) - "An Alexa Skill to lookup FCC license information (a.k.a. a QRZ lookup)."
+- [alexa-airportinfo](https://github.com/bignerdranch/alexa-airportinfo) - "This skill uses the FAA API to report the current weather, and any delays, for a given airport code - like GRR (Grand Rapids, Michigan)."
 
 # Newsletters
 
@@ -57,6 +65,10 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 # Blogs
 
 - [Love My Echo](http://lovemyecho.com/) - "Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.""
+
+# Tutorials
+- [Alexa Voice Service (AVS) with cURL](https://miguelmota.com/blog/alexa-voice-service-with-curl/)
+- [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/)
 
 # Videos
 
