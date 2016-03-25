@@ -57,6 +57,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexa_metar](https://github.com/djacobow/alexa_metar) - "Read ADDS METARs aloud on an Amazon Echo."
 - [alexa-qrz](https://github.com/maihde/alexa-qrz) - "An Alexa Skill to lookup FCC license information (a.k.a. a QRZ lookup)."
 - [alexa-airportinfo](https://github.com/bignerdranch/alexa-airportinfo) - "This skill uses the FAA API to report the current weather, and any delays, for a given airport code - like GRR (Grand Rapids, Michigan)."
+- [alexa-ha](https://github.com/unityfire/alexa-ha) - "An Amazon Echo skill for controlling your Home Automation via voice."
 
 # Newsletters
 
