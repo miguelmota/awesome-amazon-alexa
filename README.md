@@ -25,6 +25,8 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 
 # Skills
 
+Skills in Node.js
+
 - [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
 - [ASK-HackerNews](https://github.com/miguelmota/ASK-HackerNews) - "An Alexa Skills Kit app to read the top Hacker News headlines."
 - [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
