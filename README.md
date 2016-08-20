@@ -70,6 +70,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 # Tutorials
 - [Alexa Voice Service (AVS) with cURL](https://miguelmota.com/blog/alexa-voice-service-with-curl/)
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/)
+- [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app)
 
 # Videos
 
