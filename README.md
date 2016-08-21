@@ -16,6 +16,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [echo-expressive](https://github.com/dhleong/expressive) - "https://github.com/dhleong/expressive."
 - [wavelength](https://github.com/pmarkert/wavelength) - "Framework for building Alexa Skills with AWS Lambda."
 - [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - "Bypass Alexa (Amazon Echo) Text-to-Speech censorship."
+- [ssml-builder](https://github.com/mandnyc/ssml-builder) - "Easily create SSML without all the hassle of string concatenation."
 
 # Projects
 
