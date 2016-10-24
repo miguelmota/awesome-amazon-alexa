@@ -17,6 +17,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [wavelength](https://github.com/pmarkert/wavelength) - "Framework for building Alexa Skills with AWS Lambda."
 - [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - "Bypass Alexa (Amazon Echo) Text-to-Speech censorship."
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - "Easily create SSML without all the hassle of string concatenation."
+- [alexa-utils](https://github.com/tejashah88/alexa-utils) - "A simple library for making the development of Alexa skills easier with Node.js."
 
 # Projects
 
