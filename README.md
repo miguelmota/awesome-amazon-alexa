@@ -78,6 +78,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [Alexa Voice Service (AVS) with cURL](https://miguelmota.com/blog/alexa-voice-service-with-curl/)
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/)
 - [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app)
+- [How to create an Alexa Skill using Alexia Framework](https://accenture.github.io/blog/2016/11/18/alexia-framework.html)
 
 # Videos
 
