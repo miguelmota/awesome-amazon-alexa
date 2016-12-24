@@ -13,7 +13,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
 - [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - "Amazon Echo Alexa's App Kit NodeJS Implementation."
 - [generator-alexa-skill](https://github.com/cameronhunter/generator-alexa-skill) - "A Yeoman generator for scaffolding an Alexa Skill for AWS Lambda."
-- [echo-expressive](https://github.com/dhleong/expressive) - "A minimalist framework for Alexa Skill Kit apps running on Amazon Lambda"
+- [expressive](https://github.com/dhleong/expressive) - "A minimalist framework for Alexa Skill Kit apps running on Amazon Lambda"
 - [wavelength](https://github.com/pmarkert/wavelength) - "Framework for building Alexa Skills with AWS Lambda."
 - [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - "Bypass Alexa (Amazon Echo) Text-to-Speech censorship."
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - "Easily create SSML without all the hassle of string concatenation."
