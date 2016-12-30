@@ -55,7 +55,6 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - "An Alexa skill for calling an Uber ride."
 - [npmAlexa](https://github.com/stevengill/npmAlexaI) - "Alexa app to ping npm api."
 - [1minuteMindfullnessSkill](https://github.com/unitygirl/1minuteMindfullnessSkill) - "Skill code for Alexa Skill: 1 minute Mindfulness."
-- [alexa-ha](https://github.com/unityfire/alexa-ha) - "An Amazon Echo skill for controlling your HA server via voice."
 - [codeword-alexa-skill](https://github.com/asimihsan/codeword-alexa-skill) - "Generate code words using Alexa."
 - [alexa-league](https://github.com/amphy/alexa-league) - "Alexa Skill for Riot API."
 - [alexa-astro](https://github.com/peap/alexa-astro) - "Ask your Amazon Echo about the night sky."
