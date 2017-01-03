@@ -19,6 +19,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - "Easily create SSML without all the hassle of string concatenation."
 - [alexa-utils](https://github.com/tejashah88/alexa-utils) - "A simple library for making the development of Alexa skills easier with Node.js."
 - [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - "A simple middleware wrapper for the 'alexa-verifier' node module."
+- [alexia](https://github.com/Accenture/alexia) - "A Framework for creating Amazon Echo skills using Node.js - see also Alexia Starter Kit project"
 
 # Projects
 
@@ -56,7 +57,6 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - "An Alexa skill for calling an Uber ride."
 - [npmAlexa](https://github.com/stevengill/npmAlexaI) - "Alexa app to ping npm api."
 - [1minuteMindfullnessSkill](https://github.com/unitygirl/1minuteMindfullnessSkill) - "Skill code for Alexa Skill: 1 minute Mindfulness."
-- [alexa-ha](https://github.com/unityfire/alexa-ha) - "An Amazon Echo skill for controlling your HA server via voice."
 - [codeword-alexa-skill](https://github.com/asimihsan/codeword-alexa-skill) - "Generate code words using Alexa."
 - [alexa-league](https://github.com/amphy/alexa-league) - "Alexa Skill for Riot API."
 - [alexa-astro](https://github.com/peap/alexa-astro) - "Ask your Amazon Echo about the night sky."
@@ -64,6 +64,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexa-qrz](https://github.com/maihde/alexa-qrz) - "An Alexa Skill to lookup FCC license information (a.k.a. a QRZ lookup)."
 - [alexa-airportinfo](https://github.com/bignerdranch/alexa-airportinfo) - "This skill uses the FAA API to report the current weather, and any delays, for a given airport code - like GRR (Grand Rapids, Michigan)."
 - [alexa-ha](https://github.com/unityfire/alexa-ha) - "An Amazon Echo skill for controlling your Home Automation via voice."
+- [alexia-starter-kit](https://github.com/Accenture/alexia-starter-kit) - "Starter Kit project with sample Amazon Echo skill created using Alexia Framework. Contains eslint config, sample intent structure, unit tests and more."
 
 # Newsletters
 
@@ -77,6 +78,7 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [Alexa Voice Service (AVS) with cURL](https://miguelmota.com/blog/alexa-voice-service-with-curl/)
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/)
 - [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app)
+- [How to create an Alexa Skill using Alexia Framework](https://accenture.github.io/blog/2016/11/18/alexia-framework.html)
 
 # Videos
 
