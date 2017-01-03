@@ -91,7 +91,8 @@ Fork and submit Pull Request! I can no longer maintain this curated list so I'm 
 
 - [Love My Echo](http://lovemyecho.com/) - "Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.""
 
-# Tutorials
+## Tutorials
+
 - [Alexa Voice Service (AVS) with cURL](https://miguelmota.com/blog/alexa-voice-service-with-curl/)
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/)
 - [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app)
