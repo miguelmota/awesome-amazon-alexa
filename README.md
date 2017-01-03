@@ -2,7 +2,11 @@
 
 Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs), mostly JavaScript/Node.js specific.
 
-# NPM Modules
+# Contribute
+
+Fork and submit Pull Request! I can no longer maintain this curated list so I'm relying on the community to help out : )
+
+## NPM Modules
 
 - [intent-utterance-file-parser](https://github.com/miguelmota/intent-utterance-file-parser) - "Parse an intent utterance file, like the Alexa Skills Kit Sample Utterance file."
 - [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - "Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances."
@@ -21,17 +25,17 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - "A simple middleware wrapper for the 'alexa-verifier' node module."
 - [alexia](https://github.com/Accenture/alexia) - "A Framework for creating Amazon Echo skills using Node.js - see also Alexia Starter Kit project"
 
-# Projects
+## Projects
 
 - [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js) - "SDK and example code for building voice-enabled skills for the Amazon Echo."
 - [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
 - [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
 - [SSMLOL](https://github.com/okofish/ssmlol) - "MP3 file validator for Alexa SSML \<audio\> tags"
 
-# Websites
+## Websites
 - [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - "A website that allows you to generate numerous utterances with a simplistic GUI."
 
-# Skills
+## Skills
 
 - [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
 - [ASK-HackerNews](https://github.com/miguelmota/ASK-HackerNews) - "An Alexa Skills Kit app to read the top Hacker News headlines."
@@ -66,11 +70,11 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [alexa-ha](https://github.com/unityfire/alexa-ha) - "An Amazon Echo skill for controlling your Home Automation via voice."
 - [alexia-starter-kit](https://github.com/Accenture/alexia-starter-kit) - "Starter Kit project with sample Amazon Echo skill created using Alexia Framework. Contains eslint config, sample intent structure, unit tests and more."
 
-# Newsletters
+## Newsletters
 
 - [ASK Dev Weekly](http://askdevweekly.com/) - "Subscribe to a hand picked round up of the best Alexa Skills Kit (ASK) development links every week."
 
-# Blogs
+## Blogs
 
 - [Love My Echo](http://lovemyecho.com/) - "Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.""
 
@@ -80,22 +84,18 @@ Collection of awesome resources and libraries for the [Amazon Echo](https://en.w
 - [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app)
 - [How to create an Alexa Skill using Alexia Framework](https://accenture.github.io/blog/2016/11/18/alexia-framework.html)
 
-# Videos
+## Videos
 
 - [AWS re:Invent 2015 | (MBL301) Creating Voice Experiences Using Amazon Alexa](https://www.youtube.com/watch?v=mOcxd_KcQJI)
 - [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
 
-# Courses
+## Courses
 
 - [Introduction to Voice Design with Amazon's Alexa](https://www.udemy.com/amazonalexa/)
 
-# Easter Eggs
+## Easter Eggs
 
 - [Alexa Easter Eggs](EASTER_EGGS.md)
-
-# Contribute
-
-Fork and submit Pull Request!
 
 # License
 
