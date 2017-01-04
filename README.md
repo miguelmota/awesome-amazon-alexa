@@ -72,7 +72,7 @@ Fork and submit Pull Request! I can no longer maintain this curated list so I'm 
 - [alexa-against-humanity](https://github.com/radiantnode/alexa-against-humanity) - "Ask Alexa to randomly pick white or black cards from Cards Against Humanity."
 - [echo-venmo](https://github.com/AbhiAgarwal/echo-venmo) - "Amazon Echo Skill for Venmo."
 - [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - "An Alexa skill for calling an Uber ride."
-- [npmAlexa](https://github.com/stevengill/npmAlexaI) - "Alexa app to ping npm api."
+- [npmAlexa](https://github.com/stevengill/npmAlexa) - "Alexa app to ping npm api."
 - [1minuteMindfullnessSkill](https://github.com/unitygirl/1minuteMindfullnessSkill) - "Skill code for Alexa Skill: 1 minute Mindfulness."
 - [codeword-alexa-skill](https://github.com/asimihsan/codeword-alexa-skill) - "Generate code words using Alexa."
 - [alexa-league](https://github.com/amphy/alexa-league) - "Alexa Skill for Riot API."
