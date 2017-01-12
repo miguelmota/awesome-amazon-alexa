@@ -34,7 +34,6 @@ Fork and submit Pull Request! I can no longer maintain this curated list so I'm 
 - [wavelength](https://github.com/pmarkert/wavelength) - "Framework for building Alexa Skills with AWS Lambda."
 - [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - "Bypass Alexa (Amazon Echo) Text-to-Speech censorship."
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - "Easily create SSML without all the hassle of string concatenation."
-- [alexa-utils](https://github.com/tejashah88/alexa-utils) - "A simple library for making the development of Alexa skills easier with Node.js."
 - [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - "A simple middleware wrapper for the 'alexa-verifier' node module."
 - [alexia](https://github.com/Accenture/alexia) - "A Framework for creating Amazon Echo skills using Node.js - see also Alexia Starter Kit project"
 
