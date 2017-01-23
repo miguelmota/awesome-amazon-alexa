@@ -1,12 +1,11 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Amazon Echo
+# Awesome Amazon Echo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs), mostly JavaScript/Node.js specific.
 
-# Contribute
+# Contributing
 
-Fork and submit Pull Request! I can no longer maintain this curated list so I'm relying on the community to help out : )
+Fork and submit Pull Request! I can no longer maintain this curated list so I'm relying on the community to contribute. Please read the [contribution guidelines](CONTRIBUTING.md).
 
 # Contents
 
@@ -112,4 +111,6 @@ Fork and submit Pull Request! I can no longer maintain this curated list so I'm 
 
 # License
 
-MIT
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) has waived all copyright and related or neighboring rights to this work.
