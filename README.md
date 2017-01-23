@@ -1,7 +1,7 @@
 
 # Awesome Amazon Echo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collection of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs), mostly JavaScript/Node.js specific.
+> Curated list of awesome resources and libraries for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs), mostly JavaScript/Node.js specific.
 
 # Contributing
 
