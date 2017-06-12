@@ -53,8 +53,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 
 ## Skills
 
-- [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
 - [ASK-HackerNews](https://github.com/miguelmota/ASK-HackerNews) - "An Alexa Skills Kit app to read the top Hacker News headlines."
+- [Alexa-ChromeControl](https://github.com/Nedervino/Alexa-ChromeControl) - "Control your chrome browser via your Amazon Echo."
+- [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
 - [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
 - [gmail-on-alexa](https://github.com/s-maheshbabu/gmail-on-alexa) - "Gmail skill for Amazon Alexa."
 - [alexa-plex](https://github.com/OverloadUT/alexa-plex) - "Alexa (Amazon Echo) app for interacting with a Plex Server and controlling client playback."
