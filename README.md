@@ -5,7 +5,7 @@
 
 # Contributing
 
-Fork and submit Pull Request! I can no longer maintain this curated list so I'm relying on the community to contribute. Please read the [contribution guidelines](CONTRIBUTING.md).
+Fork and submit Pull Request! **I can no longer maintain this curated list so I'm relying on the community to contribute.** Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 
 # Contents
 
@@ -24,6 +24,7 @@ Fork and submit Pull Request! I can no longer maintain this curated list so I'm 
 - [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - "Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances."
 - [intent-utterance-generator](https://github.com/miguelmota/intent-utterance-generator) - "Alexa Skills Kit Sample Utterances generator."
 - [alexa-utterances](https://github.com/mreinstein/alexa-utterances) -"Generate expanded utterances for Amazon Alexa from a template string."
+- [alexa-voice-service.js]() - "Library for interacting with Alexa Voice Service (AVS) in the browser."
 - [alexa-grammar](https://github.com/scottbea/alexa-grammar) - "Utilities and framework code for building valid grammars and skill kits for Amazon's Alexa voice agent service."
 - [hapi-alexa](https://github.com/TheEvilDev/hapi-alexa) - "Hapi plugin for building Amazon Alexa apps on NodeJS."
 - [alexa-app](https://github.com/matt-kruse/alexa-app) - "A framework for Alexa (Amazon Echo) apps using Node.js."
