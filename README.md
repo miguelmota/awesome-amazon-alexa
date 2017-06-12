@@ -5,7 +5,11 @@
 
 # Contributing
 
-Fork and submit Pull Request! **I can no longer maintain this curated list so I'm relying on the community to contribute.** Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
+Fork and submit Pull Request!
+
+**I can no longer maintain this curated list so I'm relying on the community to contribute.**
+
+Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 
 # Contents
 
