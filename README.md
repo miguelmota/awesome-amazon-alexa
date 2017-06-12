@@ -47,7 +47,7 @@ Fork and submit Pull Request! I can no longer maintain this curated list so I'm 
 - [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - "A website that allows you to generate numerous utterances with a simplistic GUI."
 
 ## Skills
-
+- [Alexa-ChromeControl](https://github.com/Nedervino/Alexa-ChromeControl) - "Control your chrome browser via your Amazon Echo"
 - [alexa-skill-jenkins](https://github.com/ferdingler/alexa-skill-jenkins) - "Alexa Skill Who broke the build - Jenkins."
 - [ASK-HackerNews](https://github.com/miguelmota/ASK-HackerNews) - "An Alexa Skills Kit app to read the top Hacker News headlines."
 - [ASK-fortune](https://github.com/miguelmota/ASK-fortune) - "Read a random, hopefully interesting, adage."
