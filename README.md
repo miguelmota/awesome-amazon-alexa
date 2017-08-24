@@ -40,6 +40,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - "Easily create SSML without all the hassle of string concatenation."
 - [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - "A simple middleware wrapper for the 'alexa-verifier' node module."
 - [alexia](https://github.com/Accenture/alexia) - "A Framework for creating Amazon Echo skills using Node.js - see also Alexia Starter Kit project"
+- [fluent-ssml](https://github.com/maghis/fluent-ssml) - "Reusable, testable SSML (speech synthesis) templates."
 
 ## Projects
 
