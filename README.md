@@ -48,6 +48,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [AVS-server](https://github.com/miguelmota/AVS-server) - "Node.js web server for interacting with the Alexa Voice Service."
 - [AVS-client](https://github.com/miguelmota/AVS-client) - "Front-end application for interacting with Alexa Voice Service."
 - [SSMLOL](https://github.com/okofish/ssmlol) - "MP3 file validator for Alexa SSML \<audio\> tags"
+- [Jovo Framework](https://github.com/jovotech/jovo-framework-nodejs) - "Build cross-platform apps for Alexa and Google Home"
+
 
 ## Websites
 - [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - "A website that allows you to generate numerous utterances with a simplistic GUI."
