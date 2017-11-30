@@ -50,6 +50,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [SSMLOL](https://github.com/okofish/ssmlol) - "MP3 file validator for Alexa SSML \<audio\> tags"
 - [Jovo Framework](https://github.com/jovotech/jovo-framework-nodejs) - "Build cross-platform apps for Alexa and Google Home"
 - [Alexa Smart Home SDK](https://github.com/thehappydinoa/alexa-smart-home-skill) - "An Alexa Skill Generator for IoT"
+- [AssistantJS](https://github.com/webcomputing/AssistantJS) - "TypeScript framework to build cross-platform voice applications (alexa, google home, ...)."
 
 ## Websites
 
@@ -106,6 +107,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/)
 - [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app)
 - [How to create an Alexa Skill using Alexia Framework](https://accenture.github.io/blog/2016/11/18/alexia-framework.html)
+- [How to create a cross-platform voice app using AssistantJS](https://github.com/webcomputing/AssistantJS/wiki/Getting-Started)
 
 ## Videos
 
