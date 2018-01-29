@@ -56,6 +56,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 
 - [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - "A website that allows you to generate numerous utterances with a simplistic GUI."
 - [Alexa Smart Home Payload V3 Generator](http://ec2-52-207-149-121.compute-1.amazonaws.com/) - "A website that generates smart home v3 discovery payloads"
+- [Skillinator](https://skillinator.io/) - "A website to help generate Lambda template code from an Interaction Model JSON file. Service created by Amazon staff."
 
 ## Skills
 
