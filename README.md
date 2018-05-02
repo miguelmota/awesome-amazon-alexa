@@ -1,6 +1,6 @@
 # Awesome Amazon Alexa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://user-images.githubusercontent.com/168240/39513123-178f98f4-4da8-11e8-8831-3a90ec5768c6.png" width="100" align="right" alt="Amazon Alexa">](https://developer.amazon.com/alexa)
 
-> Curated list of awesome resources for the [Amazon Alexa](https://developer.amazon.com/alexa) platform ([Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), and [Alexa Voice Service (AVS)](https://developer.amazon.com/avs))
+> Curated list of awesome resources for the [Amazon Alexa](https://developer.amazon.com/alexa) platform ([Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo), [Alexa Skills Kit (ASK)](https://developer.amazon.com/ask), [Alexa Voice Service (AVS)](https://developer.amazon.com/avs))
 
 # Contributing
 
