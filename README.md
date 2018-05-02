@@ -61,7 +61,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini
 - [MacLexa](https://github.com/kunal732/MacLexa) - Put Amazon's Alexa in the Mac System Tray - uses Alexa Voice Service and built with Swift
 - [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast - Designed for Raspberry Pi
-- [https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java
+- [AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java
 - [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
 - [SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill
 - [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET
