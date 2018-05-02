@@ -2,12 +2,6 @@
 
 > Curated list of awesome resources for the [Amazon Alexa](https://developer.amazon.com/alexa) platform.
 
-# Contributing
-
-Fork and submit Pull Request!
-
-Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
-
 # Contents
 
 - [NPM Modules](#npm-modules)
@@ -18,6 +12,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [Newsletters](#newsletters)
 - [Blogs](#blogs)
 - [Tutorials](#tutorials)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## NPM Modules
 
@@ -142,6 +138,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 ## Easter Eggs
 
 - [Alexa Easter Eggs](EASTER_EGGS.md) - A list of Alexa easter eggs.
+
+# Contributing
+
+Fork and submit Pull Request!
+
+Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 
 # License
 
