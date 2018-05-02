@@ -124,7 +124,7 @@
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/) - Tutorial on Alexa Voice Service authentication.
 - [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app) - Tutorial on creating an Alexa Skill.
 - [How to create an Alexa Skill using Alexia Framework](https://accenture.github.io/blog/2016/11/18/alexia-framework.html) - Tutorial on using the Alexia framework.
-- [How to create a cross-platform voice app using Assistant.js](https://github.com/webcomputing/AssistantJS/wiki/Getting-Started) - Tutorial on using Assistant.js
+- [How to create a cross-platform voice app using Assistant.js](https://github.com/webcomputing/AssistantJS/wiki/Getting-Started) - Tutorial on using Assistant.js.
 
 ## Videos
 
