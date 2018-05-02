@@ -6,14 +6,12 @@
 
 Fork and submit Pull Request!
 
-**I can no longer maintain this curated list so I'm relying on the community to contribute.**
-
 Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 
 # Contents
 
 - [NPM Modules](#npm-modules)
-- [Projects](#projects)
+- [SDKs/Tools](sdkstools)
 - [Websites](#websites)
 - [Blogs](#blogs)
 - [Skills](#skills)
@@ -54,6 +52,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [alexa-avs-sample-app](https://github.com/alexa/alexa-avs-sample-app) - This project provides a step-by-step walkthrough to help you build a hands-free Alexa Voice Service (AVS) prototype in 60 minutes
 - [alexa-skills-kit-sdk-for-java](https://github.com/alexa/alexa-skills-kit-sdk-for-java) - SDK and example code for building voice-enabled skills for the Amazon Echo
 - [ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit) - A minimalist SDK for developing skills for the Amazon Echo's ASK
+- [alexa-skill-kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda
+- [alexa-home](https://github.com/zachfeldman/alexa-home) - Using Amazon Echo to control the home!
+- [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development.
+- [AlexaAndroid](https://github.com/willblaschko/AlexaAndroid) - A library and sample app to abstract access to the Amazon Alexa service for Android applications
+- [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini
+- [MacLexa](https://github.com/kunal732/MacLexa) - Put Amazon's Alexa in the Mac System Tray - uses Alexa Voice Service and built with Swift
+- [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast - Designed for Raspberry Pi
+- [https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java
 
 ## Websites
 
