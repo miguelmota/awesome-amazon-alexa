@@ -19,12 +19,12 @@
 
 - [intent-utterance-file-parser](https://github.com/miguelmota/intent-utterance-file-parser) - Parse an intent utterance file, like the Alexa Skills Kit Sample Utterance file.
 - [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances.
-- [intent-utterance-generator](https://github.com/miguelmota/intent-utterance-generator) - Alexa Skills Kit Sample Utterances generator
+- [intent-utterance-generator](https://github.com/miguelmota/intent-utterance-generator) - Alexa Skills Kit Sample Utterances generator.
 - [alexa-utterances](https://github.com/mreinstein/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string.
 - [alexa-voice-service.js](https://github.com/miguelmota/alexa-voice-service.js) - Library for interacting with Alexa Voice Service (AVS) in the browser.
 - [alexa-grammar](https://github.com/scottbea/alexa-grammar) - Utilities and framework code for building valid grammars and skill kits for Amazon's Alexa voice agent service.
-- [hapi-alexa](https://github.com/TheEvilDev/hapi-alexa) - Hapi plugin for building Amazon Alexa apps on Node.js
-- [alexa-app](https://github.com/matt-kruse/alexa-app) - A framework for Alexa (Amazon Echo) apps using Node.js
+- [hapi-alexa](https://github.com/TheEvilDev/hapi-alexa) - Hapi plugin for building Amazon Alexa apps on Node.js.
+- [alexa-app](https://github.com/matt-kruse/alexa-app) - A framework for Alexa (Amazon Echo) apps using Node.js.
 - [alexa-nodekit](https://github.com/brutalhonesty/alexa-nodekit) - Amazon Echo Alexa's App Kit Node.js Implementation.
 - [generator-alexa-skill](https://github.com/cameronhunter/generator-alexa-skill) - A Yeoman generator for scaffolding an Alexa Skill for AWS Lambda.
 - [expressive](https://github.com/dhleong/expressive) - A minimalist framework for Alexa Skill Kit apps running on Amazon Lambda.
@@ -32,9 +32,9 @@
 - [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - Bypass Alexa (Amazon Echo) Text-to-Speech censorship.
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - Easily create SSML without all the hassle of string concatenation.
 - [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - A simple middleware wrapper for the 'alexa-verifier' node module.
-- [alexia](https://github.com/Accenture/alexia) - A Framework for creating Amazon Echo skills using Node.js
-- [fluent-ssml](https://github.com/maghis/fluent-ssml) - Reusable, testable SSML templates for Typescript or plain Node.js
-- [jovo-framework-nodejs](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform Voice Apps for Amazon Alexa and Google Assistant
+- [alexia](https://github.com/Accenture/alexia) - A Framework for creating Amazon Echo skills using Node.js.
+- [fluent-ssml](https://github.com/maghis/fluent-ssml) - Reusable, testable SSML templates for Typescript or plain Node.js.
+- [jovo-framework-nodejs](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform Voice Apps for Amazon Alexa and Google Assistant.
 - [chatskills](https://github.com/primaryobjects/chatskills) - Run and debug Alexa skills on the command-line. Create bots. Run them in Slack. Run them anywhere!
 - [alexa-utterances](https://github.com/alexa-js/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string.
 
@@ -55,9 +55,9 @@
 - [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development.
 - [AlexaAndroid](https://github.com/willblaschko/AlexaAndroid) - A library and sample app to abstract access to the Amazon Alexa service for Android applications.
 - [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini.
-- [MacLexa](https://github.com/kunal732/MacLexa) - Put Amazon's Alexa in the Mac System Tray - uses Alexa Voice Service and built with Swift
-- [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast - Designed for Raspberry Pi
-- [AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java
+- [MacLexa](https://github.com/kunal732/MacLexa) - Put Amazon's Alexa in the Mac System Tray, uses Alexa Voice Service and built with Swift.
+- [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast, designed for Raspberry Pi.
+- [AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java.
 - [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation.
 - [SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill.
 - [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET
