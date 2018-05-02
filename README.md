@@ -39,6 +39,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [alexia](https://github.com/Accenture/alexia) - A Framework for creating Amazon Echo skills using Node.js - see also Alexia Starter Kit project
 - [fluent-ssml](https://github.com/maghis/fluent-ssml) - Reusable, testable SSML templates for Typescript or plain Node.js
 - [jovo-framework-nodejs](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform Voice Apps for Amazon Alexa and Google Assistant
+- [chatskills](https://github.com/primaryobjects/chatskills) - Run and debug Alexa skills on the command-line. Create bots. Run them in Slack. Run them anywhere!
+- [alexa-utterances](https://github.com/alexa-js/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string
 
 ## SDKs/Tools
 
@@ -60,6 +62,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md). Thanks!
 - [MacLexa](https://github.com/kunal732/MacLexa) - Put Amazon's Alexa in the Mac System Tray - uses Alexa Voice Service and built with Swift
 - [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast - Designed for Raspberry Pi
 - [https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java
+- [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
+- [SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill
+- [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET
+- [ralyxa](https://github.com/sjmog/ralyxa) - A Ruby framework for interacting with Amazon Alexa.
+- [alexacast](https://github.com/erik/alexacast) - Chromecast support for Amazon Alexa
+- [alexa-assistant](https://github.com/tartanguru/alexa-assistant) - Implementation of the Google Assistant SDK as an Alexa skill
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills
+- [haaska](https://github.com/auchter/haaska) - Home Assistant Alexa Skill Adapter
 
 ## Websites
 
