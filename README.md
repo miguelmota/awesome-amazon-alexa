@@ -60,7 +60,7 @@
 - [AlexaSkillsKit.NET](https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET) - .NET library that simplifies Alexa skills development; same object model as Amazon's AlexaSkillsKit for Java.
 - [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation.
 - [SwiftOnLambda](https://github.com/algal/SwiftOnLambda) - Use Swift to define an Amazon Lambda function, and an Alexa Custom Skill.
-- [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET
+- [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET.
 - [ralyxa](https://github.com/sjmog/ralyxa) - A Ruby framework for interacting with Amazon Alexa.
 - [alexacast](https://github.com/erik/alexacast) - Chromecast support for Amazon Alexa.
 - [alexa-assistant](https://github.com/tartanguru/alexa-assistant) - Implementation of the Google Assistant SDK as an Alexa skill.
