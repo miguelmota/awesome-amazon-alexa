@@ -18,7 +18,7 @@
 ## NPM Modules
 
 - [intent-utterance-file-parser](https://github.com/miguelmota/intent-utterance-file-parser) - Parse an intent utterance file, like the Alexa Skills Kit Sample Utterance file.
-- [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - Expand custom utterance slots of phrases, to use with Alexa Skills Kit Sample Utterances.
+- [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) - Expand custom utterance slots of phrases to use with Alexa Skills Utterances.
 - [intent-utterance-generator](https://github.com/miguelmota/intent-utterance-generator) - Alexa Skills Kit Sample Utterances generator.
 - [alexa-utterances](https://github.com/mreinstein/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string.
 - [alexa-voice-service.js](https://github.com/miguelmota/alexa-voice-service.js) - Library for interacting with Alexa Voice Service (AVS) in the browser.
