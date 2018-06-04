@@ -40,7 +40,7 @@
 
 ## SDKs/Tools
 
-- [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js) - SDK and example code for building voice-enabled skills for the Amazon Echo.
+- [alexa-skills-kit-js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 - [AVS-server](https://github.com/miguelmota/AVS-server) - Node.js web server for interacting with the Alexa Voice Service.
 - [AVS-client](https://github.com/miguelmota/AVS-client) - Front-end application for interacting with Alexa Voice Service.
 - [SSMLOL](https://github.com/okofish/ssmlol) - MP3 file validator for Alexa SSML \<audio\> tags.
