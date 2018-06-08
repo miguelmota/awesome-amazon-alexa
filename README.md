@@ -31,12 +31,14 @@
 - [wavelength](https://github.com/pmarkert/wavelength) - Framework for building Alexa Skills with AWS Lambda.
 - [alexa-uncensor](https://github.com/atojs/alexa-uncensor) - Bypass Alexa (Amazon Echo) Text-to-Speech censorship.
 - [ssml-builder](https://github.com/mandnyc/ssml-builder) - Easily create SSML without all the hassle of string concatenation.
-- [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - A simple middleware wrapper for the 'alexa-verifier' node module.
+- [alexa-verifier-middleware](https://github.com/tejashah88/alexa-verifier-middleware) - An express middleware that verifies HTTP requests sent to an Alexa skill are sent from Amazon.
 - [alexia](https://github.com/Accenture/alexia) - A Framework for creating Amazon Echo skills using Node.js.
 - [fluent-ssml](https://github.com/maghis/fluent-ssml) - Reusable, testable SSML templates for Typescript or plain Node.js.
 - [jovo-framework-nodejs](https://github.com/jovotech/jovo-framework-nodejs) - Build cross-platform Voice Apps for Amazon Alexa and Google Assistant.
 - [chatskills](https://github.com/primaryobjects/chatskills) - Run and debug Alexa skills on the command-line. Create bots. Run them in Slack. Run them anywhere!
 - [alexa-utterances](https://github.com/alexa-js/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string.
+- [alexa-mp3-validator](https://github.com/tejashah88/alexa-mp3-validator) - A node module for validating your MP3 files to be used in your Amazon Alexa skill.
+- [node-alexa-smapi](https://github.com/tejashah88/node-alexa-smapi) - A node.js client library for using the Alexa Skill Management API.
 
 ## SDKs/Tools
 
