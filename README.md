@@ -132,6 +132,11 @@
 - [Sayspring](https://www.sayspring.com) - Create interactive voice prototypes for Amazon Alexa and Google Home.
 - [BotSociety](https://botsociety.io) - Preview & prototype your voice interfaces.
 - [Skillinator](https://skillinator.io/) - Prototype Alexa Skills for Alexa Skills Kit SDK for JavaScript / Node.js (Lambda).
+- [Storyline](https://thestoryline.io) - Create and publish Amazon Alexa skills without coding with visual interface and pre-build templates.
+- [Smartly.AI](https://smartly.ai) - All in one platform for your voice and chatbot projects.
+- [PullString](https://www.pullstring.com) - Design, prototype, and publish voice apps for Amazon Alexa, Google Assistant and IoT devices.
+- [Conversable](http://conversable.com/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel.
+* [kitt.ai](https://kitt.ai) - KITT.AI offers Conversational Understanding as a Service with ChatFlow and customizable wake word detection on embedded devices.
 
 ## Analytics
 
