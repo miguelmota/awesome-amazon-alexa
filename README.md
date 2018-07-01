@@ -63,6 +63,7 @@
 - [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library.
 - [alexa-app](https://github.com/develpr/alexa-app) - Set of classes to make creating Amazon Alexa Skills Kit (ASK) applications easier with Laravel and Lumen.
 - [Virtual Alexa](https://github.com/bespoken/virtual-alexa) - Alexa Emulator for Unit-Testing.
+- [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) - The ASK Command Line Interface (ASK CLI) is a tool for you to manage your Alexa skills and related AWS Lambda functions.
 
 ## NPM Modules
 
