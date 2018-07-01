@@ -76,6 +76,16 @@
 - [alexa-assistant](https://github.com/tartanguru/alexa-assistant) - Implementation of the Google Assistant SDK as an Alexa skill.
 - [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills.
 - [haaska](https://github.com/auchter/haaska) - Home Assistant Alexa Skill Adapter.
+- [Alexa Skills Kit SDK for Java](https://github.com/amzn/alexa-skills-kit-java) - SDK and example code for building voice-enabled skills for the Amazon Echo.
+ - [Aleksa](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin.
+- [Alexa Skills Kit for Python](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python.
+- [python-alexa](https://github.com/nmyster/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda.
+- [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java) - An Amazon Alexa Skills SDK for Java
+- [vsms-skeleton](https://github.com/internetofvoice/vsms-skeleton) - Voice Skill Management System (Skeleton)
+- [amazon-alexa-skill-library](https://github.com/travello-gmbh/amazon-alexa-skill-library) - PHP Library for Amazon Alexa Skills
+- [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library
+- [alexa-app](https://github.com/develpr/alexa-app) - Set of classes to make creating Amazon Alexa Skills Kit (ASK) applications easier with Laravel and Lumen
+- [Virtual Alexa](https://github.com/bespoken/virtual-alexa) - Alexa Emulator for Unit-Testing
 
 ## Websites
 
