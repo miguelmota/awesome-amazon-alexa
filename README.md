@@ -6,9 +6,11 @@
 
 - [SDKs/Tools](sdkstools)
 - [NPM Modules](#npm-modules)
-- [Websites](#websites)
-- [Blogs](#blogs)
 - [Skills](#skills)
+- [Prototyping](#prototyping)
+- [Analytics](#analytics)
+- [Utilities](#utilities)
+- [Monitoring](#monitoring)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
@@ -87,12 +89,6 @@
 - [alexa-mp3-validator](https://github.com/tejashah88/alexa-mp3-validator) - A node module for validating your MP3 files to be used in your Amazon Alexa skill.
 - [node-alexa-smapi](https://github.com/tejashah88/node-alexa-smapi) - A node.js client library for using the Alexa Skill Management API.
 
-## Websites
-
-- [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - A website that allows you to generate numerous utterances with a simplistic GUI.
-- [Alexa Smart Home Payload V3 Generator](http://ec2-52-207-149-121.compute-1.amazonaws.com/) - A website that generates smart home v3 discovery payloads.
-- [Skillinator](https://skillinator.io/) - A website to help generate Lambda template code from an Interaction Model JSON file. Service created by Amazon staff.
-
 ## Skills
 
 - [ASK-HackerNews](https://github.com/miguelmota/ASK-HackerNews) - An Alexa Skills Kit app to read the top Hacker News headlines.
@@ -129,6 +125,33 @@
 - [alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice.
 - [alexia-starter-kit](https://github.com/Accenture/alexia-starter-kit) - Starter Kit project with sample Amazon Echo skill created using Alexia Framework. Contains eslint config, sample intent structure, unit tests and more.
 - [geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa.
+
+## Prototyping
+
+- [VoiceX](https://anilkk.github.io/voicex/) - Prototyping sample dialogs for voice user interfaces.
+- [Sayspring](https://www.sayspring.com) - Create interactive voice prototypes for Amazon Alexa and Google Home.
+- [BotSociety](https://botsociety.io) - Preview & prototype your voice interfaces.
+- [Skillinator](https://skillinator.io/) - Prototype Alexa Skills for Alexa Skills Kit SDK for JavaScript / Node.js (Lambda).
+
+## Analytics
+
+- [Dashbot](https://www.dashbot.io/alexa) - Actionable Analytics for Amazon Alexa
+- [Opearlo](http://www.opearlo.com) - Opearlo is a voice design agency that offers Alexa skill design and development, along with Opearlo Analytics, a platform for insights into Alexa skill usage.
+- [Alpine.ai](http://alpine.ai) - Alpine is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
+- [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
+
+## Utilities
+
+- [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - A website that allows you to generate numerous utterances with a simplistic GUI.
+- [Alexa Smart Home Payload V3 Generator](http://ec2-52-207-149-121.compute-1.amazonaws.com/) - A website that generates smart home v3 discovery payloads.
+- [Skillinator](https://skillinator.io/) - A website to help generate Lambda template code from an Interaction Model JSON file. Service created by Amazon staff.
+- [Audio converter (Storyline)](https://getstoryline.com/audio-converter) - This simple tool helps you to convert your MP3s into the right format for Amazon Alexa skills. It works for Google Actions too.
+- [Audio converter (Jovo)](https://www.jovo.tech/audio-converter) - Convert MP3 files for using in Amazon Alexa Skills.
+- [Tophonetics](https://tophonetics.com) - A free International Phonetic Alphabet (IPA) phonetics generator for your SSML in Amazon Alexa Skills.
+
+## Monitoring
+
+- [Bespoken](http://bespoken.io) - Bespoken provides monitoring and testing tools for Alexa skills (and Google Actions). Our platform keeps track to make sure your skill is working correctly, and alerts you when it is not.
 
 ## Newsletters
 
