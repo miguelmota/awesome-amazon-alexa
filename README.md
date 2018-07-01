@@ -12,12 +12,14 @@
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
+- [Books](#books)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Courses](#videos)
 - [Communities](#communities)
 - [Influencers](#influencers)
 - [Easter Eggs](#easter-eggs)
+- [Fundraising](#fundraising)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -130,15 +132,19 @@
 ## Podcasts
 
 - [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
-
 - [VoiceBot Podcasts](https://www.voicebot.ai/voicebot-podcasts/) - Gather in one place the most important news and commentary about all things voice web.
-
 - [VoiceFirst.FM](https://www.voicefirst.fm/) - A podcast network devoted to voice-first technology.
 
 ## Blogs
 
 - [Love My Echo](http://lovemyecho.com/) - Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.
 - [VoiceBot](https://www.voicebot.ai/) - One of the main news sources about voice industry and Amazon Alexa.
+
+## Books
+
+- [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414) - How to design voice user interfaces.
+- [How To Program - Amazon Echo: Design, Development and Testing Alexa Skills](https://www.amazon.com/How-Program-Amazon-Echo-Development-ebook/dp/B011J6AP26) - How To Program for the Amazon Alexa.
+- [Developing Amazon Alexa Games: A Game Designer’s Handbook](https://www.amazon.com/Developing-Amazon-Alexa-Games-Designers-ebook/dp/B0739N4MJH) - A Game Designer’s Handbook.
 
 ## Tutorials
 
@@ -170,6 +176,10 @@
 ## Easter Eggs
 
 - [Alexa Easter Eggs](EASTER_EGGS.md) - A list of Alexa easter eggs.
+
+## Fundraising
+
+- [Alexa Fund](https://developer.amazon.com/alexa-fund) - The Alexa Fund provides up to $100 million in venture capital funding to fuel voice technology innovation.
 
 # Contributing
 
