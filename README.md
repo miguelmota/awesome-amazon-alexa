@@ -158,6 +158,12 @@
 
 - [AWS re:Invent 2015 | (MBL301) Creating Voice Experiences Using Amazon Alexa](https://www.youtube.com/watch?v=mOcxd_KcQJI) - Learn about creating good user experiences on Alexa.
 - [AWS re:Invent 2015 | (MBL310) Alexa Voice Service Under the Hood](https://www.youtube.com/watch?v=qEYbjCXOU7Q) - Learn more about Alexa in-depth.
+- [How to create an Alexa skill without coding?](https://www.youtube.com/watch?v=2nXO-lj72Gc)
+- [How to create your own Flash Briefing skill for Amazon Alexa](https://www.youtube.com/watch?v=kfSP1Munn1M) - Create your own flash briefing skill.
+- [How to Publish Your Alexa Skill to all the English-speaking Regions](https://www.youtube.com/watch?v=_Ph6K_-1_mw) - Publish your Alexa skill.
+- [Dabble Lab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos) - Weekly videos on building custom skills for Amazon Alexa and related topics.
+- [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) - Build smooth voice-activated apps for Echo and other Alexa-aware devices.
+- [Build for Echo Show](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - Learn to develop multimodal skills for Echo Show.
 
 ## Courses
 
