@@ -7,6 +7,7 @@
 - [SDKs/Tools](sdkstools)
 - [NPM Modules](#npm-modules)
 - [Skills](#skills)
+- [Boilerplates](#boilerplates)
 - [Prototyping](#prototyping)
 - [Analytics](#analytics)
 - [Utilities](#utilities)
@@ -51,7 +52,6 @@
 - [ralyxa](https://github.com/sjmog/ralyxa) - A Ruby framework for interacting with Amazon Alexa.
 - [alexacast](https://github.com/erik/alexacast) - Chromecast support for Amazon Alexa.
 - [alexa-assistant](https://github.com/tartanguru/alexa-assistant) - Implementation of the Google Assistant SDK as an Alexa skill.
-- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills.
 - [haaska](https://github.com/auchter/haaska) - Home Assistant Alexa Skill Adapter.
 - [Alexa Skills Kit SDK for Java](https://github.com/amzn/alexa-skills-kit-java) - SDK and example code for building voice-enabled skills for the Amazon Echo.
  - [Aleksa](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin.
@@ -126,6 +126,23 @@
 - [alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice.
 - [alexia-starter-kit](https://github.com/Accenture/alexia-starter-kit) - Starter Kit project with sample Amazon Echo skill created using Alexia Framework. Contains eslint config, sample intent structure, unit tests and more.
 - [geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa.
+
+## Boilerplates
+
+- [skill-sample-nodejs-fact](https://github.com/alexa/skill-sample-nodejs-fact) - This Alexa sample skill is a template for a basic fact skill.
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills.
+- [skill-sample-nodejs-petmatch](https://github.com/alexa/skill-sample-nodejs-petmatch) - This Alexa Skill Kit sample shows how to build a skill using Dialog Management and Entity Resolution.
+- [skill-sample-nodejs-team-lookup](https://github.com/alexa/skill-sample-nodejs-team-lookup) - An Alexa Skill Sample showing how to build a team lookup skill.
+- [skill-sample-nodejs-city-guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - An Alexa Skill Sample showing how to build a skill featuring a single city's landmarks and news.
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills.
+- [skill-sample-nodejs-highlowgame](https://github.com/alexa/skill-sample-nodejs-highlowgame) - This Alexa sample skill is a template for a basic high-low game skill.
+- [skill-sample-nodejs-howto](https://github.com/alexa/skill-sample-nodejs-howto) - This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a parameter-based skill using a template called ‘Minecraft Helper’.
+- [skill-sample-nodejs-feed](https://github.com/alexa/skill-sample-nodejs-feed) - An Alexa Skill Template to help create skills that read RSS/Atom feeds.
+- [skill-sample-nodejs-decision-tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - An Alexa Skill Sample for building a skill that can take a user through a decision tree, like "What should I eat for breakfast?".
+- [skill-sample-nodejs-calendar-reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - An Alexa Skill Sample showing how to import calendar data from an .ICS file.
+- [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia) - This Alexa sample skill is a template for a trivia style game with score keeping.
+- [skill-sample-nodejs-quiz-game](https://github.com/alexa/skill-sample-nodejs-quiz-game) - An Alexa Skill Sample showing how to build a quiz game skill.
+- [skill-sample-nodejs-salesforce](https://github.com/alexa/skill-sample-nodejs-salesforce) - This project demonstrates how to build an Alexa private skill that integrates with your Salesforce data, utilizing account linking and a personal voice code.
 
 ## Prototyping
 
