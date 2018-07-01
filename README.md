@@ -10,8 +10,14 @@
 - [Blogs](#blogs)
 - [Skills](#skills)
 - [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Courses](#videos)
+- [Communities](#communities)
+- [Influencers](#influencers)
+- [Easter Eggs](#easter-eggs)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -115,10 +121,24 @@
 ## Newsletters
 
 - [ASK Dev Weekly](http://askdevweekly.com/) - Subscribe to a hand picked round up of the best Alexa Skills Kit (ASK) development links every week.
+- [Hearing Voices](https://www.getrevue.co/profile/hearingvoices) - This week's news about voice computing apps, delivered directly to your inbox.
+- [Alexa Developer](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription) - Latest Amazon Alexa news and IoT and voice industry trends.
+- [Love My Echo](http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3) - Things To Ask Alexa, how-tos, tips, tricks, etc.
+- [VoiceBot](https://www.voicebot.ai/subscribe/) - The latest news about Amazon Alexa, Google Home, Google Deep Mind, Apple Siri, Microsoft Cortana, IBM Watson and more.
+- [Voice Dev Rocks](https://voicedev.rocks/) - A weekly curated publication full of interesting, relevant links, brought to you by the Amazon Alexa, Google Assistant and Microsoft Cortana Slack communities.
+
+## Podcasts
+
+- [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
+
+- [VoiceBot Podcasts](https://www.voicebot.ai/voicebot-podcasts/) - Gather in one place the most important news and commentary about all things voice web.
+
+- [VoiceFirst.FM](https://www.voicefirst.fm/) - A podcast network devoted to voice-first technology.
 
 ## Blogs
 
 - [Love My Echo](http://lovemyecho.com/) - Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.
+- [VoiceBot](https://www.voicebot.ai/) - One of the main news sources about voice industry and Amazon Alexa.
 
 ## Tutorials
 
@@ -136,6 +156,16 @@
 ## Courses
 
 - [Introduction to Voice Design with Amazon's Alexa](https://www.udemy.com/amazonalexa/) - Introduction to Alexa Voice Design.
+
+## Communities
+
+- [Unofficial Alexa Slack](http://www.alexaslack.com) - A group of chat channels focusing on Amazon Alexa enabled hardware and software. Developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology are welcome.
+- [Storyline community](https://www.facebook.com/groups/storylinecommunity/) - Facebook community of Alexa Developers built around the Storyline, tool for creating voice apps without coding.
+- [Alexa Dev Days](https://developer.amazon.com/alexa/devday) - Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Learners of all levels can join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.
+
+## Influencers
+
+- [Influencers](INFLUENCERS.md) - A list of Amazon Alexa influencers.
 
 ## Easter Eggs
 
