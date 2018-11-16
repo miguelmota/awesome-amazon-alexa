@@ -126,6 +126,7 @@
 - [alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice.
 - [alexia-starter-kit](https://github.com/Accenture/alexia-starter-kit) - Starter Kit project with sample Amazon Echo skill created using Alexia Framework. Contains eslint config, sample intent structure, unit tests and more.
 - [geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa.
+- [alex-robinhood-skill](https://github.com/dvehar/alexa-robinhood-skill) - Unoffical Alexa Skill for Robinhood.
 
 ## Boilerplates
 
