@@ -203,6 +203,7 @@
 - [How To Program - Amazon Echo: Design, Development and Testing Alexa Skills](https://www.amazon.com/How-Program-Amazon-Echo-Development-ebook/dp/B011J6AP26) - How To Program for the Amazon Alexa.
 - [Developing Amazon Alexa Games: A Game Designer’s Handbook](https://www.amazon.com/Developing-Amazon-Alexa-Games-Designers-ebook/dp/B0739N4MJH) - A Game Designer’s Handbook.
 - [Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant) - This book teaches you how to design, build, and share voice apps.
+[Voice-First Development](https://www.manning.com/books/voice-first-development) - In this insightful guide, you’ll get a solid foundation in modern voice technologies.
 
 
 ## Tutorials
