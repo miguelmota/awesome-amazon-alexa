@@ -29,6 +29,7 @@
 ## SDKs/Tools
 
 - [alexa-skills-kit-js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
+- [jargon-sdk-nodejs](https://github.com/JargonInc/jargon-sdk-nodejs/tree/master/packages/alexa-skill-sdk) - The Jargon SDK makes it easy for skill developers to manage their runtime content and to support multiple languages from within their skill.
 - [AVS-server](https://github.com/miguelmota/AVS-server) - Node.js web server for interacting with the Alexa Voice Service.
 - [AVS-client](https://github.com/miguelmota/AVS-client) - Front-end application for interacting with Alexa Voice Service.
 - [SSMLOL](https://github.com/okofish/ssmlol) - MP3 file validator for Alexa SSML \<audio\> tags.
@@ -89,6 +90,7 @@
 - [alexa-utterances](https://github.com/alexa-js/alexa-utterances) - Generate expanded utterances for Amazon Alexa from a template string.
 - [alexa-mp3-validator](https://github.com/tejashah88/alexa-mp3-validator) - A node module for validating your MP3 files to be used in your Amazon Alexa skill.
 - [node-alexa-smapi](https://github.com/tejashah88/node-alexa-smapi) - A node.js client library for using the Alexa Skill Management API.
+- [jargon-sdk-nodejs](https://github.com/JargonInc/jargon-sdk-nodejs/tree/master/packages/alexa-skill-sdk) - The Jargon SDK makes it easy for skill developers to manage their runtime content and to support multiple languages from within their skill.
 
 ## Skills
 
@@ -196,6 +198,7 @@
 
 - [Love My Echo](http://lovemyecho.com/) - Love My Echo is the first consumer-oriented site dedicated to the Amazon Echo: what it is, what it does, and how to get the most from it.
 - [VoiceBot](https://www.voicebot.ai/) - One of the main news sources about voice industry and Amazon Alexa.
+- [Jargon Blog](https://jargon.com/blog/) - The Jargon Blog releases weekly updates on voice 101 and product news
 
 ## Books
 
