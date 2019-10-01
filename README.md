@@ -166,6 +166,7 @@
 - [Alpine.ai](http://alpine.ai) - Alpine is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
 - [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
 
+
 ## Utilities
 
 - [Alexa-Utterance-Generator](https://github.com/tejashah88/Alexa-Utterance-Generator) - A website that allows you to generate numerous utterances with a simplistic GUI.
@@ -243,9 +244,15 @@
 ## Influencers
 
 - [Influencers](INFLUENCERS.md) - A list of Amazon Alexa influencers.
-- [Student Influencers](Student-INFLUENCERS.md) - A list of Alexa Student Influencers.
 
+## Conferences
 
+- [Voice Summit](https://www.voicesummit.ai/)- VOICE Summit sponsored by Amazon Alexa is the world's largest voice-tech conference
+- [Alexa VoxCon](http://amazonalexavoxcon.com) - Amazon Alexa's Conference on All Things Voice.
+
+## Jobs
+
+- [Find Voice Jobs](https://www.findvoicejobs.com) - Website to find jobs in VUI Domain
 
 ## Easter Eggs
 
