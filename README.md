@@ -243,7 +243,7 @@
 ## Influencers
 
 - [Influencers](INFLUENCERS.md) - A list of Amazon Alexa influencers.
-- [Student Influencers]()
+- [Student Influencers](Student-INFLUENCERS.md) - A list of Alexa Student Influencers.
 
 
 
