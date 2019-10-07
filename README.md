@@ -21,6 +21,8 @@
 - [Courses](#videos)
 - [Communities](#communities)
 - [Influencers](#influencers)
+- [Conferences](#conferences)
+- [Jobs](#jobs)
 - [Easter Eggs](#easter-eggs)
 - [Fundraising](#fundraising)
 - [Contributing](#contributing)
@@ -233,7 +235,7 @@
 ## Courses
 
 - [Introduction to Voice Design with Amazon's Alexa](https://www.udemy.com/amazonalexa/) - Introduction to Alexa Voice Design.
-
+- [Cakewalk - Build an engaging Alexa Skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk) - Build an enaging Alexa Skill from scratch right upto certification.
 ## Communities
 
 - [Unofficial Alexa Slack](http://www.alexaslack.com) - A group of chat channels focusing on Amazon Alexa enabled hardware and software. Developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology are welcome.
@@ -244,6 +246,7 @@
 ## Influencers
 
 - [Influencers](INFLUENCERS.md) - A list of Amazon Alexa influencers.
+
 
 ## Conferences
 
