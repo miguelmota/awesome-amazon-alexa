@@ -191,6 +191,7 @@
 - [Love My Echo](http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3) - Things To Ask Alexa, how-tos, tips, tricks, etc.
 - [VoiceBot](https://www.voicebot.ai/subscribe/) - The latest news about Amazon Alexa, Google Home, Google Deep Mind, Apple Siri, Microsoft Cortana, IBM Watson and more.
 - [Voice Dev Rocks](https://voicedev.rocks/) - A weekly curated publication full of interesting, relevant links, brought to you by the Amazon Alexa, Google Assistant and Microsoft Cortana Slack communities.
+- [Talking to Computers](https://talkingtocomputers.substack.com/welcome) - A monthly newsletter about building for voice, on Alexa, Google Assistant, and elsewhere for developers, designers, and the tech-curious.
 
 ## Podcasts
 
