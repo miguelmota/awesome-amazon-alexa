@@ -62,7 +62,7 @@
 - [python-alexa](https://github.com/nmyster/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda.
 - [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java) - An Amazon Alexa Skills SDK for Java.
 - [vsms-skeleton](https://github.com/internetofvoice/vsms-skeleton) - Voice Skill Management System (Skeleton).
-- [amazon-alexa-skill-library](https://github.com/travello-gmbh/amazon-alexa-skill-library) - PHP Library for Amazon Alexa Skills.
+- [phoice/phlexa](https://github.com/phoice/phlexa) - PHP Library for Amazon Alexa voice applications.
 - [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library.
 - [alexa-app](https://github.com/develpr/alexa-app) - Set of classes to make creating Amazon Alexa Skills Kit (ASK) applications easier with Laravel and Lumen.
 - [Virtual Alexa](https://github.com/bespoken/virtual-alexa) - Alexa Emulator for Unit-Testing.
